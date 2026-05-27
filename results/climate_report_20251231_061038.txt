@@ -1,0 +1,7 @@
+=== CLIMATE STATISTICS ===
+Temperature_mean: 15.02
+Temperature_std: 7.25
+Rainfall_total: 1517.54
+Rainfall_mean: 4.16
+CO2_mean: 416.02
+CO2_std: 0.75
